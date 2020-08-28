@@ -1,0 +1,10 @@
+C:\Users\ester\source\repos\ConexaoBD\ConexaoBD\bin\Debug\ConexaoBD.exe.config
+C:\Users\ester\source\repos\ConexaoBD\ConexaoBD\bin\Debug\ConexaoBD.exe
+C:\Users\ester\source\repos\ConexaoBD\ConexaoBD\bin\Debug\ConexaoBD.pdb
+C:\Users\ester\source\repos\ConexaoBD\ConexaoBD\obj\Debug\CadastroDePessoas.csprojAssemblyReference.cache
+C:\Users\ester\source\repos\ConexaoBD\ConexaoBD\obj\Debug\ConexaoBD.Form1.resources
+C:\Users\ester\source\repos\ConexaoBD\ConexaoBD\obj\Debug\ConexaoBD.Properties.Resources.resources
+C:\Users\ester\source\repos\ConexaoBD\ConexaoBD\obj\Debug\CadastroDePessoas.csproj.GenerateResource.cache
+C:\Users\ester\source\repos\ConexaoBD\ConexaoBD\obj\Debug\CadastroDePessoas.csproj.CoreCompileInputs.cache
+C:\Users\ester\source\repos\ConexaoBD\ConexaoBD\obj\Debug\ConexaoBD.exe
+C:\Users\ester\source\repos\ConexaoBD\ConexaoBD\obj\Debug\ConexaoBD.pdb
